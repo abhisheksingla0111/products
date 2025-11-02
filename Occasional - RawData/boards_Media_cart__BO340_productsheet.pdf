@@ -1,0 +1,312 @@
+<!DOCTYPE HTML>
+<html lang="de">
+<head>
+
+    <title></title>
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="referrer" content="no-referrer-when-downgrade">
+    <!-- THIS SCRIPT NEEDS TO BE LOADED FIRST BEFORE wforms.js -->
+    <script type="text/javascript" data-for="FA__DOMContentLoadedEventDispatch" src="https://www.tfaforms.com/js/FA__DOMContentLoadedEventDispatcher.js" defer></script>
+            <script type="text/javascript">
+        document.addEventListener("FA__DOMContentLoaded", function(){
+            const FORM_TIME_START = Math.floor((new Date).getTime()/1000);
+            let formElement = document.getElementById("tfa_0");
+            if (null === formElement) {
+                formElement = document.getElementById("0");
+            }
+            let appendJsTimerElement = function(){
+                let formTimeDiff = Math.floor((new Date).getTime()/1000) - FORM_TIME_START;
+                let cumulatedTimeElement = document.getElementById("tfa_dbCumulatedTime");
+                if (null !== cumulatedTimeElement) {
+                    let cumulatedTime = parseInt(cumulatedTimeElement.value);
+                    if (null !== cumulatedTime && cumulatedTime > 0) {
+                        formTimeDiff += cumulatedTime;
+                    }
+                }
+                let jsTimeInput = document.createElement("input");
+                jsTimeInput.setAttribute("type", "hidden");
+                jsTimeInput.setAttribute("value", formTimeDiff.toString());
+                jsTimeInput.setAttribute("name", "tfa_dbElapsedJsTime");
+                jsTimeInput.setAttribute("id", "tfa_dbElapsedJsTime");
+                jsTimeInput.setAttribute("autocomplete", "off");
+                if (null !== formElement) {
+                    formElement.appendChild(jsTimeInput);
+                }
+            };
+            if (null !== formElement) {
+                if(formElement.addEventListener){
+                    formElement.addEventListener('submit', appendJsTimerElement, false);
+                } else if(formElement.attachEvent){
+                    formElement.attachEvent('onsubmit', appendJsTimerElement);
+                }
+            }
+        });
+    </script>
+
+    <link href="https://www.tfaforms.com/dist/form-builder/5.0.0/wforms-layout.css?v=1762072647" rel="stylesheet" type="text/css" />
+
+    <link href="https://www.tfaforms.com/uploads/themes/theme-59969.css" rel="stylesheet" type="text/css" />
+    <link href="https://www.tfaforms.com/dist/form-builder/5.0.0/wforms-jsonly.css?v=1762072647" rel="alternate stylesheet" title="This stylesheet activated by javascript" type="text/css" />
+    <script type="text/javascript" src="https://www.tfaforms.com/wForms/3.11/js/wforms.js?v=1762072647"></script>
+    <script type="text/javascript">
+        if(wFORMS.behaviors.prefill) wFORMS.behaviors.prefill.skip = true;
+    </script>
+    <script type="text/javascript" src="https://www.tfaforms.com/wForms/3.11/js/localization-de.js?v=1762072647"></script>
+
+            
+    
+    
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-K654D6D');</script>
+
+</head>
+<body class="default wFormWebPage" >
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K654D6D" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+    <div id="tfaContent">
+        <div class="wFormContainer" style="max-width: 850px; width: auto;">
+    <div class="wFormHeader"></div>
+    <style type="text/css">
+                #tfa_37,
+                *[id^="tfa_37["] {
+                    width: 260px !important;
+                }
+                #tfa_37-D,
+                *[id^="tfa_37["][class~="field-container-D"] {
+                    width: auto !important;
+                }
+            
+                #tfa_37-L,
+                label[id^="tfa_37["] {
+                    width: 180px !important;
+                    min-width: 0px;
+                }
+            
+                #tfa_391,
+                *[id^="tfa_391["] {
+                    width: 376px !important;
+                }
+                #tfa_391-D,
+                *[id^="tfa_391["][class~="field-container-D"] {
+                    width: auto !important;
+                }
+            
+                #tfa_391-L,
+                label[id^="tfa_391["] {
+                    width: 17px !important;
+                    min-width: 0px;
+                }
+            
+                #tfa_405,
+                *[id^="tfa_405["] {
+                    width: 196px !important;
+                }
+                #tfa_405-D,
+                *[id^="tfa_405["][class~="field-container-D"] {
+                    width: auto !important;
+                }
+            
+                #tfa_405-L,
+                label[id^="tfa_405["] {
+                    width: 177px !important;
+                    min-width: 0px;
+                }
+            
+                #tfa_416,
+                *[id^="tfa_416["] {
+                    width: 196px !important;
+                }
+                #tfa_416-D,
+                *[id^="tfa_416["][class~="field-container-D"] {
+                    width: auto !important;
+                }
+            
+                #tfa_416-L,
+                label[id^="tfa_416["] {
+                    width: 177px !important;
+                    min-width: 0px;
+                }
+            
+                #tfa_359,
+                *[id^="tfa_359["] {
+                    width: 196px !important;
+                }
+                #tfa_359-D,
+                *[id^="tfa_359["][class~="field-container-D"] {
+                    width: auto !important;
+                }
+            
+                #tfa_359-L,
+                label[id^="tfa_359["] {
+                    width: 177px !important;
+                    min-width: 0px;
+                }
+            
+                #tfa_367,
+                *[id^="tfa_367["] {
+                    width: 196px !important;
+                }
+                #tfa_367-D,
+                *[id^="tfa_367["][class~="field-container-D"] {
+                    width: auto !important;
+                }
+            
+                #tfa_367-L,
+                label[id^="tfa_367["] {
+                    width: 177px !important;
+                    min-width: 0px;
+                }
+            
+                #tfa_371,
+                *[id^="tfa_371["] {
+                    width: 196px !important;
+                }
+                #tfa_371-D,
+                *[id^="tfa_371["][class~="field-container-D"] {
+                    width: auto !important;
+                }
+            
+                #tfa_371-L,
+                label[id^="tfa_371["] {
+                    width: 177px !important;
+                    min-width: 0px;
+                }
+            
+                #tfa_361,
+                *[id^="tfa_361["] {
+                    width: 196px !important;
+                }
+                #tfa_361-D,
+                *[id^="tfa_361["][class~="field-container-D"] {
+                    width: auto !important;
+                }
+            
+                #tfa_361-L,
+                label[id^="tfa_361["] {
+                    width: 177px !important;
+                    min-width: 0px;
+                }
+            
+                #tfa_363,
+                *[id^="tfa_363["] {
+                    width: 196px !important;
+                }
+                #tfa_363-D,
+                *[id^="tfa_363["][class~="field-container-D"] {
+                    width: auto !important;
+                }
+            
+                #tfa_363-L,
+                label[id^="tfa_363["] {
+                    width: 177px !important;
+                    min-width: 0px;
+                }
+            
+                #tfa_365,
+                *[id^="tfa_365["] {
+                    width: 196px !important;
+                }
+                #tfa_365-D,
+                *[id^="tfa_365["][class~="field-container-D"] {
+                    width: auto !important;
+                }
+            
+                #tfa_365-L,
+                label[id^="tfa_365["] {
+                    width: 177px !important;
+                    min-width: 0px;
+                }
+            
+                #tfa_381-L,
+                label[id^="tfa_381["] {
+                    width: -3px !important;
+                    min-width: 0px;
+                }
+            </style><div class=""><div class="wForm" id="4904907-WRPR" data-language="de" dir="ltr">
+<div class="codesection" id="code-4904907"></div>
+<form method="post" action="https://www.tfaforms.com/api_v2/workflow/processor" class="hintsTooltip labelsLeftAligned" id="4904907">
+<input type="hidden" id="tfa_37" name="tfa_37" value="7011i000000cRkpAAE" class=""><div class="htmlSection" id="tfa_417"><div class="htmlContent" id="tfa_417-HTML"><img src="https://www.tfaforms.com/forms/get_image/201162/jmezORhedsJUAPcBGaglypyMFPJA5qFp2J6Goge4FyScuIakvtN1GwRFCSzXsAVH-Formular_Ausschreibungstexte_DE_01.jpg" alt="Brunner Aussschreibungstexte" style="max-width: 100%;"></div></div>
+<div id="tfa_421" class="section inline group">
+<div class="htmlSection" id="tfa_422"><div class="htmlContent" id="tfa_422-HTML"></div></div>
+<div class="htmlSection" id="tfa_423"><div class="htmlContent" id="tfa_423-HTML"></div></div>
+</div>
+<div class="htmlSection" id="tfa_379"><div class="htmlContent" id="tfa_379-HTML"><div><span style="background-color: transparent;">Bitte nennen Sie uns den Namen und die Modellnummer des Produkts bzw. der Produkte an deren Ausschreibungstexte Sie interessiert sind.</span></div><div><div></div><div>Wir kümmern uns schnellstmöglich um Ihre Anfrage und kontaktieren Sie.</div><div><br></div><div>Vielen Dank.</div><div><br></div></div></div></div>
+<div id="tfa_411" class="section inline group">
+<div class="htmlSection" id="tfa_412"><div class="htmlContent" id="tfa_412-HTML"></div></div>
+<div class="htmlSection" id="tfa_413"><div class="htmlContent" id="tfa_413-HTML"></div></div>
+</div>
+<div class="htmlSection" id="tfa_407"><div class="htmlContent" id="tfa_407-HTML"><u>Produktname und Modellnummer *</u></div></div>
+<div class="oneField field-container-D    " id="tfa_391-D"><div class="inputWrapper"><input aria-required="true" type="text" id="tfa_391" name="tfa_391" value="" title="" class="required"></div></div>
+<div id="tfa_222" class="section inline group">
+<div class="htmlSection" id="tfa_223"><div class="htmlContent" id="tfa_223-HTML"></div></div>
+<div class="htmlSection" id="tfa_224"><div class="htmlContent" id="tfa_224-HTML"></div></div>
+</div>
+<div class="htmlSection" id="tfa_274"><div class="htmlContent" id="tfa_274-HTML"></div></div>
+<div class="htmlSection" id="tfa_369"><div class="htmlContent" id="tfa_369-HTML"><u style="">Kontaktdaten:</u></div></div>
+<div class="oneField field-container-D    " id="tfa_405-D">
+<label id="tfa_405-L" class="label preField reqMark" for="tfa_405">Unternehmen:</label><div class="inputWrapper"><input aria-required="true" type="text" id="tfa_405" name="tfa_405" value="" title="Unternehmen:" class="required"></div>
+</div>
+<div class="oneField field-container-D    " id="tfa_416-D">
+<label id="tfa_416-L" class="label preField reqMark" for="tfa_416">Vorname:</label><div class="inputWrapper"><input aria-required="true" type="text" id="tfa_416" name="tfa_416" value="" title="Vorname:" class="required"></div>
+</div>
+<div class="oneField field-container-D    " id="tfa_359-D">
+<label id="tfa_359-L" class="label preField reqMark" for="tfa_359">Nachname:</label><div class="inputWrapper"><input aria-required="true" type="text" id="tfa_359" name="tfa_359" value="" title="Nachname:" class="required"></div>
+</div>
+<div class="oneField field-container-D    " id="tfa_367-D">
+<label id="tfa_367-L" class="label preField reqMark" for="tfa_367">E-Mail:</label><div class="inputWrapper"><input aria-required="true" type="text" id="tfa_367" name="tfa_367" value="" title="E-Mail:" class="required"></div>
+</div>
+<div class="oneField field-container-D    " id="tfa_371-D">
+<label id="tfa_371-L" class="label preField reqMark" for="tfa_371">Telefonnr.:</label><div class="inputWrapper"><input aria-required="true" type="text" id="tfa_371" name="tfa_371" value="" title="Telefonnr.:" class="required"></div>
+</div>
+<div id="tfa_375" class="section inline group">
+<div class="htmlSection" id="tfa_376"><div class="htmlContent" id="tfa_376-HTML"></div></div>
+<div class="htmlSection" id="tfa_377"><div class="htmlContent" id="tfa_377-HTML"></div></div>
+</div>
+<div class="htmlSection" id="tfa_341"><div class="htmlContent" id="tfa_341-HTML"><u>Adresse:</u></div></div>
+<div class="oneField field-container-D    " id="tfa_361-D">
+<label id="tfa_361-L" class="label preField reqMark" for="tfa_361">Straße, Hausnr.:</label><div class="inputWrapper"><input aria-required="true" type="text" id="tfa_361" name="tfa_361" value="" title="Straße, Hausnr.:" class="required"></div>
+</div>
+<div class="oneField field-container-D    " id="tfa_363-D">
+<label id="tfa_363-L" class="label preField reqMark" for="tfa_363">PLZ, Ort:</label><div class="inputWrapper"><input aria-required="true" type="text" id="tfa_363" name="tfa_363" value="" title="PLZ, Ort:" class="required"></div>
+</div>
+<div class="oneField field-container-D    " id="tfa_365-D">
+<label id="tfa_365-L" class="label preField reqMark" for="tfa_365">Land:</label><div class="inputWrapper"><input aria-required="true" type="text" id="tfa_365" name="tfa_365" value="" title="Land:" class="required"></div>
+</div>
+<div id="tfa_287" class="section inline group">
+<div class="htmlSection" id="tfa_288"><div class="htmlContent" id="tfa_288-HTML"></div></div>
+<div class="htmlSection" id="tfa_289"><div class="htmlContent" id="tfa_289-HTML"></div></div>
+</div>
+<div id="tfa_395" class="section inline group">
+<div class="htmlSection" id="tfa_396"><div class="htmlContent" id="tfa_396-HTML"></div></div>
+<div class="htmlSection" id="tfa_397"><div class="htmlContent" id="tfa_397-HTML"></div></div>
+</div>
+<div id="tfa_384" class="section inline group">
+<div class="oneField field-container-D    " id="tfa_381-D" role="group" aria-labelledby="tfa_381-L" data-tfa-labelledby="-L tfa_381-L"><div class="inputWrapper"><span id="tfa_381" class="choices vertical required"><span class="oneChoice"><input type="checkbox" value="tfa_382" class="" id="tfa_382" name="tfa_382" aria-labelledby="tfa_382-L" data-tfa-labelledby="tfa_381-L tfa_382-L" data-tfa-parent-id="tfa_381"><label class="label postField" id="tfa_382-L" for="tfa_382"><span class="input-checkbox-faux"></span>Ich habe die Informationen zum <a target="_blank" href="https://www.brunner-group.com/de-DE/datenschutz/">Datenschutz</a> gelesen und bin damit einverstanden. *</label></span></span></div></div>
+<div class="htmlSection" id="tfa_268"><div class="htmlContent" id="tfa_268-HTML"></div></div>
+</div>
+<div id="tfa_401" class="section inline group">
+<div class="htmlSection" id="tfa_402"><div class="htmlContent" id="tfa_402-HTML"></div></div>
+<div class="htmlSection" id="tfa_403"><div class="htmlContent" id="tfa_403-HTML"></div></div>
+</div>
+<div class="actions" id="4904907-A" data-contentid="submit_button"><input type="submit" data-label="Anfrage absenden" class="primaryAction" id="submit_button" value="Anfrage absenden"></div>
+<div style="clear:both"></div>
+<input type="hidden" value="303-633d75083921871b9938f91d7305e292" name="tfa_dbCounters" id="tfa_dbCounters" autocomplete="off"><input type="hidden" value="4904907" name="tfa_dbFormId" id="tfa_dbFormId"><input type="hidden" value="" name="tfa_dbResponseId" id="tfa_dbResponseId"><input type="hidden" value="24b1e318572efb6bc82a757aa176f618" name="tfa_dbControl" id="tfa_dbControl"><input type="hidden" value="" name="tfa_dbWorkflowSessionUuid" id="tfa_dbWorkflowSessionUuid"><input type="hidden" value="1762072647" name="tfa_dbTimeStarted" id="tfa_dbTimeStarted" autocomplete="off"><input type="hidden" value="26" name="tfa_dbVersionId" id="tfa_dbVersionId"><input type="hidden" value="" name="tfa_switchedoff" id="tfa_switchedoff">
+</form>
+</div></div><div class="wFormFooter"><p class="supportInfo"><br></p></div>
+  <p class="supportInfo" >
+      </p>
+ </div>
+    </div>
+
+        <script src='https://www.tfaforms.com/js/iframe_message_helper_internal.js?v=2'></script>
+
+</body>
+</html>

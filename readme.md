@@ -77,3 +77,12 @@ errors.txt -> has logging details incase there are any failures
 
 TODO/Enhancements:
 Currently script fails if there are no images on website. We should be able to skip downloading images in that case.
+
+
+pip install playwright
+python -m playwright install
+pip install beautifulsoup4
+
+Occasional/Tables script has these versions:
+one has optional check for gallery to continue if there are no images on website
+other has check to see if there are also high quality images

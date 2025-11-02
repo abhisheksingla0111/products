@@ -1,0 +1,75 @@
+Opening URL for product ray_table_Conference_table_9312: https://brunner-group.com/ennull/?variant=9312
+[Info] No images detected for product ray_table_Conference_table_9312, skipping image extraction step.
+Successfully opened URL for product ray_table_Conference_table_9312
+Extracting images for product ray_table_Conference_table_9312...
+[Info] No images found for product ray_table_Conference_table_9312, skipping download step.
+Extracting features for product ray_table_Conference_table_9312...
+[Features Extraction] Failed for product ray_table_Conference_table_9312: Page.inner_html: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tab-0 > div > div > div:nth-child(1)")
+
+Attempting to access Downloads tab for product ray_table_Conference_table_9312...
+[PDF Extraction] Failed for product ray_table_Conference_table_9312: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("#tab-3 > div > div > div:nth-child(1) ul li a span span span") to be visible
+
+Opening URL for product break_Standing_table__3964: https://brunner-group.com/en/products/break-standing-table/?variant=3964
+[Info] No images detected for product break_Standing_table__3964, skipping image extraction step.
+Successfully opened URL for product break_Standing_table__3964
+Extracting images for product break_Standing_table__3964...
+[Info] No images found for product break_Standing_table__3964, skipping download step.
+Extracting features for product break_Standing_table__3964...
+Features saved for product break_Standing_table__3964
+Attempting to access Downloads tab for product break_Standing_table__3964...
+Starting download of PDF: https://live-brunner.pantheonsite.io/sites/default/files/oldPdfs/Produktdatenblaetter/Produktdatenblaetter_EN/break_Brunner_Produktdatenblatt_EN.pdf
+Downloaded product_sheet.pdf for product break_Standing_table__3964
+Opening URL for product buena_nova_four-legged_table__373: https://brunner-group.com/en/products/buena-nova-four-legged-table/?variant=373
+[Info] No images detected for product buena_nova_four-legged_table__373, skipping image extraction step.
+Successfully opened URL for product buena_nova_four-legged_table__373
+Extracting images for product buena_nova_four-legged_table__373...
+[Info] No images found for product buena_nova_four-legged_table__373, skipping download step.
+Extracting features for product buena_nova_four-legged_table__373...
+Features saved for product buena_nova_four-legged_table__373
+Attempting to access Downloads tab for product buena_nova_four-legged_table__373...
+Starting download of PDF: https://live-brunner.pantheonsite.io/sites/default/files/oldPdfs/Produktdatenblaetter/Produktdatenblaetter_EN/buena_nova_Brunner_product_data_sheet_EN.pdf
+Downloaded product_sheet.pdf for product buena_nova_four-legged_table__373
+Opening URL for product cross_bistro_table__3080: https://brunner-group.com/en/products/cross-bistro-table/?variant=3080
+[Info] No images detected for product cross_bistro_table__3080, skipping image extraction step.
+Successfully opened URL for product cross_bistro_table__3080
+Extracting images for product cross_bistro_table__3080...
+[Info] No images found for product cross_bistro_table__3080, skipping download step.
+Extracting features for product cross_bistro_table__3080...
+Features saved for product cross_bistro_table__3080
+Attempting to access Downloads tab for product cross_bistro_table__3080...
+Starting download of PDF: https://live-brunner.pantheonsite.io/sites/default/files/oldPdfs/Produktdatenblaetter/Produktdatenblaetter_EN/cross_crossflip_Brunner_product_data_sheet_EN.pdf
+Downloaded product_sheet.pdf for product cross_bistro_table__3080
+Opening URL for product cross.flip_standing_table__3053: https://brunner-group.com/en/products/crossflip-standing-table/?variant=3053
+[Info] No images detected for product cross.flip_standing_table__3053, skipping image extraction step.
+Successfully opened URL for product cross.flip_standing_table__3053
+Extracting images for product cross.flip_standing_table__3053...
+[Info] No images found for product cross.flip_standing_table__3053, skipping download step.
+Extracting features for product cross.flip_standing_table__3053...
+Features saved for product cross.flip_standing_table__3053
+Attempting to access Downloads tab for product cross.flip_standing_table__3053...
+Starting download of PDF: https://live-brunner.pantheonsite.io/sites/default/files/oldPdfs/Produktdatenblaetter/Produktdatenblaetter_EN/cross_crossflip_Brunner_product_data_sheet_EN.pdf
+Downloaded product_sheet.pdf for product cross.flip_standing_table__3053
+Opening URL for product hoc_Cheek_table_9171: https://brunner-group.com/en/products/hoc-cheek-table/?variant=9171
+[Info] No images detected for product hoc_Cheek_table_9171, skipping image extraction step.
+Successfully opened URL for product hoc_Cheek_table_9171
+Extracting images for product hoc_Cheek_table_9171...
+[Info] No images found for product hoc_Cheek_table_9171, skipping download step.
+Extracting features for product hoc_Cheek_table_9171...
+Features saved for product hoc_Cheek_table_9171
+Attempting to access Downloads tab for product hoc_Cheek_table_9171...
+Starting download of PDF: https://live-brunner.pantheonsite.io/sites/default/files/oldPdfs/https%3A//www.brunner-group.comProduktdatenblaetter/Produktdatenblaetter_EN/Brunner_product_data_sheet_hoc_EN.pdf
+[PDF Download] Failed for product hoc_Cheek_table_9171: HTTP status 404
+Opening URL for product lift_centre-column_table_7881: https://brunner-group.com/en/products/lift-centre-column-table/?variant=7881
+[Info] No images detected for product lift_centre-column_table_7881, skipping image extraction step.
+Successfully opened URL for product lift_centre-column_table_7881
+Extracting images for product lift_centre-column_table_7881...
+[Info] No images found for product lift_centre-column_table_7881, skipping download step.
+Extracting features for product lift_centre-column_table_7881...
+Features saved for product lift_centre-column_table_7881
+Attempting to access Downloads tab for product lift_centre-column_table_7881...
+Starting download of PDF: https://live-brunner.pantheonsite.io/sites/default/files/oldPdfs/Produktdatenblaetter/Produktdatenblaetter_EN/lift_Brunner_Produktdatenblatt_EN.pdf
+Downloaded product_sheet.pdf for product lift_centre-column_table_7881
