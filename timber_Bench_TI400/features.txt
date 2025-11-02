@@ -1,7 +1,1 @@
-On your mark and ready to go.
-
-- Stand-alone bench in a sleek, sporty design for relaxed sitting, no matter what kind of waiting area you are in
-- Shaped wood shell manufactured in one piece, of oak or HPL, gives an optical illusion of floating through its minimalistic high-quality diecast aluminium frame
-- Available in three different lengths, 184 cm, 242 cm and 300 cm
-- Optionally available with armrests that match the shell
-- Optionally available with matching upholstery
+<h3 class="h-h2 m-tabbed-content-item-content-w-media__headline" data-v-b955efd7="">On your mark and ready to go.</h3><div class="s-base m-tabbed-content-item-content-w-media__content" data-v-b955efd7=""><ul><li>Stand-alone bench in a sleek, sporty design for relaxed sitting, no matter what kind of waiting area you are in</li><li>Shaped wood shell manufactured in one piece, of oak or HPL, gives an optical illusion of floating through its minimalistic high-quality diecast aluminium frame</li><li>Available in three different lengths, 184 cm, 242 cm and 300 cm</li><li>Optionally available with armrests that match the shell</li><li>Optionally available with matching upholstery</li></ul></div>

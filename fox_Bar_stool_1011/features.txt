@@ -1,7 +1,1 @@
-A bar stool with grand designs.
-
-- Perfect complement of the series
-- Consequent formal language within a cafeteria or a Restaurant
-- Choice of 4-legged or sled base Frame
-- Numerous shell versions
-- stackable
+<h3 class="h-h2 m-tabbed-content-item-content-w-media__headline" data-v-b955efd7="">A bar stool with grand designs.</h3><div class="s-base m-tabbed-content-item-content-w-media__content" data-v-b955efd7=""><ul><li>Perfect complement of the series</li><li>Consequent formal language within a cafeteria or a Restaurant</li><li>Choice of 4-legged or sled base Frame</li><li>Numerous shell versions</li><li>stackable<br></li></ul></div>

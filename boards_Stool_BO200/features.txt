@@ -1,10 +1,9 @@
-This seat is always on its toes.
-
-- The multifunctional range for agile work environments
-- Developed for optimum use together with the super-light whiteboards in the series
-- Various castor options depending on the application
-- Wide range of accessories for the entire series
-- For customising the design of adaptable workspaces and meeting rooms
-- Super simple and intuitive
-- Clean, consistent design
-- Materials can be separated and sorted and are recyclable
+<h3 class="h-h2 m-tabbed-content-item-content-w-media__headline" data-v-b955efd7="">This seat is always on its toes.</h3><div class="s-base m-tabbed-content-item-content-w-media__content" data-v-b955efd7=""><ul><li>The multifunctional range for agile work environments
+</li><li>Developed for optimum use together with the super-light whiteboards in the series
+</li><li>Various castor options depending on the application
+</li><li>Wide range of accessories for the entire series
+</li><li>For customising the design of adaptable workspaces and meeting rooms
+</li><li>Super simple and intuitive
+</li><li>Clean, consistent design
+</li><li>Materials can be separated and sorted and are recyclable
+</li></ul></div>

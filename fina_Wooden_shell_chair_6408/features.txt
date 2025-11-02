@@ -1,8 +1,1 @@
-Attractive seating furniture - innovative and individual.
-
-- Versatile deployment
-- Innovative shaped wood seat shell: stable, yet delicate
-- Shaped wood or plastic seat shell
-- Shaped wood shell with different upholstery variants
-- Different frame versions, also as swivel and bar stool frames
-- Optional: Armrests available in different versions
+<h3 class="h-h2 m-tabbed-content-item-content-w-media__headline" data-v-b955efd7="">Attractive seating furniture - innovative and individual.</h3><div class="s-base m-tabbed-content-item-content-w-media__content" data-v-b955efd7=""><ul><li>Versatile deployment</li><li>Innovative shaped wood seat shell: stable, yet delicate</li><li>Shaped wood or plastic seat shell</li><li>Shaped wood shell with different upholstery variants</li><li>Different frame versions, also as swivel and bar stool frames</li><li>Optional: Armrests available in different versions</li></ul></div>

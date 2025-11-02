@@ -1,7 +1,1 @@
-Ultimate comfort every time.
-
-- Versatile range, modular design
-- Numerous possible applications, from conference room to restaurant, from elegant to home-like
-- Slender, cushion-like fully upholstered shell
-- High-quality appearance thanks to decorative stitching and circumferential piping detail, optionally also available in a contrasting colour
-- Available with a sled-base frame, spider-leg frame, five-star base on casters and a four-legged wooden frame
+<h3 class="h-h2 m-tabbed-content-item-content-w-media__headline" data-v-b955efd7="">Ultimate comfort every time.</h3><div class="s-base m-tabbed-content-item-content-w-media__content" data-v-b955efd7=""><ul><li>Versatile range, modular design</li><li>Numerous possible applications, from conference room to restaurant, from elegant to home-like</li><li>Slender, cushion-like fully upholstered shell</li><li>High-quality appearance thanks to decorative stitching and circumferential piping detail, optionally also available in a contrasting colour</li><li>Available with a sled-base frame, spider-leg frame, five-star base on casters and a four-legged wooden frame</li></ul></div>

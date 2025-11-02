@@ -1,9 +1,1 @@
-For us, perfect ergonomics is a mere formality.
-
-- Slim, dynamic and yet elegant appearance
-- Seamless transition between frame, seat shell and delicate armrests
-- Conference chair available with different back heights and in height-adjustable version
-- Low chair with flexible polygonal slats in the seat and back area for optimum adaptation to the body
-- Medium- and high-back chair with integrated pads for special upholstered ergonomic zones
-- Premium upholstery offers varied design options
-- The radial-kinetic activation (RKA) promotes "dynamic sitting"
+<h3 class="h-h2 m-tabbed-content-item-content-w-media__headline" data-v-b955efd7="">For us, perfect ergonomics is a mere formality.</h3><div class="s-base m-tabbed-content-item-content-w-media__content" data-v-b955efd7=""><ul><li>Slim, dynamic and yet elegant appearance</li><li>Seamless transition between frame, seat shell and delicate armrests</li><li>Conference chair available with different back heights&nbsp;and in height-adjustable version</li><li>Low chair with flexible polygonal slats in the seat and back area for optimum adaptation to the body</li><li>Medium- and high-back chair with integrated pads for special upholstered ergonomic zones</li><li>Premium upholstery offers varied design options</li><li>The radial-kinetic activation (RKA) promotes "dynamic sitting"</li></ul></div>

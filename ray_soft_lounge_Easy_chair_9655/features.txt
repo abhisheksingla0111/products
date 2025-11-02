@@ -1,8 +1,1 @@
-Positive features for a pleasant moment.
-
-- Lounge furniture as the perfect addition to the ray soft series
-- Ideally suited to homely yet elegant settings
-- Compact lounge chair ideal for private conversations
-- Streamlined, cushion-like, fully upholstered shell with integrated armrests
-- High-quality appearance thanks to decorative stitching and all-round piping, optionally also available in a contrasting colour
-- With swivel supporting column and optional self-return mechanism or homely solid oak wooden frame
+<h3 class="h-h2 m-tabbed-content-item-content-w-media__headline" data-v-b955efd7="">Positive features for a pleasant moment.</h3><div class="s-base m-tabbed-content-item-content-w-media__content" data-v-b955efd7=""><ul><li>Lounge furniture as the perfect addition to the ray soft series<br></li><li>Ideally suited to homely yet elegant settings</li><li>Compact lounge chair ideal for private conversations</li><li>Streamlined, cushion-like, fully upholstered shell with integrated armrests</li><li>High-quality appearance thanks to decorative stitching and all-round piping, optionally also available in a contrasting colour</li><li>With swivel supporting column and optional self-return mechanism or homely solid oak wooden frame</li></ul></div>

@@ -1,5 +1,1 @@
-Expressive in terms of form and colour.
-
-- Cosy, comfortable chair featuring various frame versions made of wood or metal
-- Dynamic seat shell lines
-- Great design latitude thanks to one- or two-coloured upholstery and a choice of different frame types
+<h3 class="h-h2 m-tabbed-content-item-content-w-media__headline" data-v-b955efd7="">Expressive in terms of form and colour.</h3><div class="s-base m-tabbed-content-item-content-w-media__content" data-v-b955efd7=""><ul><li>Cosy, comfortable chair featuring various frame versions made of wood or metal</li><li>Dynamic seat shell lines</li><li>Great design latitude thanks to one- or two-coloured upholstery and a choice of different frame types</li></ul></div>

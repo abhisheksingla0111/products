@@ -140,7 +140,7 @@ async def main():
     if os.path.exists(LOG_FILE):
         os.remove(LOG_FILE)
 
-    with open('failed-products.json', 'r', encoding='utf-8') as f:
+    with open('tables.json', 'r', encoding='utf-8') as f:
         products = json.load(f)
 
     async with async_playwright() as p:

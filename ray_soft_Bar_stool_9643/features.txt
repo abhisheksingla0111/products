@@ -1,6 +1,1 @@
-Sitting on another level
-
-- Versatile range, modular design
-- Slender, cushion-like fully upholstered shell
-- High-quality appearance thanks to decorative stitching and circumferential piping detail, optionally also available in a contrasting colour
-- Frame versions: sled-base frame made of solid steel or four-legged frame made of solid oak wood with a slender footrest made of chromed steel
+<h3 class="h-h2 m-tabbed-content-item-content-w-media__headline" data-v-b955efd7="">Sitting on another level</h3><div class="s-base m-tabbed-content-item-content-w-media__content" data-v-b955efd7=""><ul><li>Versatile range, modular design</li><li>Slender, cushion-like fully upholstered shell</li><li>High-quality appearance thanks to decorative stitching and circumferential piping detail, optionally also available in a contrasting colour</li><li>Frame versions: sled-base frame made of solid steel or four-legged frame made of solid oak wood with a slender footrest made of chromed steel</li></ul></div>

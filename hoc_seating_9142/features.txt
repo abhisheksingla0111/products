@@ -1,7 +1,1 @@
-Delicate, stable, and open to all sides.
-
-- Premium finish shaped wood furniture Family
-- Natural lacquer finish, stained, matt, or colour lacquer finish
-- Optionally available with comfortable seat upholstery
-- Matching stand-up tables, tables and benches available
-- Stools available in two heights, lower version stackable
+<h3 class="h-h2 m-tabbed-content-item-content-w-media__headline" data-v-b955efd7="">Delicate, stable, and open to all sides.</h3><div class="s-base m-tabbed-content-item-content-w-media__content" data-v-b955efd7=""><ul><li>Premium finish shaped wood furniture Family</li><li>Natural lacquer finish, stained, matt, or colour lacquer finish<br></li><li>Optionally available with comfortable seat upholstery</li><li>Matching stand-up tables, tables and benches available<br></li><li>Stools available in two heights, lower version stackable</li></ul></div>

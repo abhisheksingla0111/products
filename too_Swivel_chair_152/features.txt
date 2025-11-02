@@ -1,8 +1,1 @@
-THE OFFICE CHAIR WHICH AUTOMATICALLY ADJUSTS ITSELF. FUNCTIONAL OFFICE PROGRAMME.
-
-- Ergonomic
-- Automatic weight regulation
-- Featuring many upholstery versions
-- With elegant key technology
-- With numerous additional functions and finishing variants
-- Outstanding price-performance ratio
+<h3 class="h-h2 m-tabbed-content-item-content-w-media__headline" data-v-b955efd7="">THE OFFICE CHAIR WHICH AUTOMATICALLY ADJUSTS ITSELF. FUNCTIONAL OFFICE PROGRAMME.</h3><div class="s-base m-tabbed-content-item-content-w-media__content" data-v-b955efd7=""><ul><li>Ergonomic</li><li>Automatic weight regulation</li><li>Featuring many upholstery versions</li><li>With elegant key technology</li><li>With numerous additional functions and finishing variants</li><li>Outstanding price-performance ratio</li></ul></div>

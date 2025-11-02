@@ -1,8 +1,1 @@
-- Eye-catching, lightweight chairs: plastic chair bodies in the crona family
-- Shell with or without armrests
-- Available in seven colours with matching coating hues
-- Also available with a seat shell made from high-quality recycled plastic
-- Large selection of different frame types such as four-legged, sled-base, spider and centre leg frames
-- Also available with a seat cushion or cosy soft upholstery of the entire shell in a loose cushion look
-- Easy to clean and disinfect
-- Versatile and adaptable, from cafeterias and restaurants to hospitals
+<!----><div class="s-base m-tabbed-content-item-content-w-media__content" data-v-b955efd7=""><ul><li>Eye-catching, lightweight chairs: plastic chair bodies in the crona family</li><li>Shell with or without armrests</li><li>Available in seven colours with matching coating hues</li><li>Also available with a seat shell made from high-quality recycled plastic</li><li>Large selection of different frame types such as four-legged, sled-base, spider and centre leg frames</li><li>Also available with a seat cushion or cosy soft upholstery of the entire shell in a loose cushion look</li><li>Easy to clean and disinfect</li><li>Versatile and adaptable, from cafeterias and restaurants to hospitals</li></ul></div>

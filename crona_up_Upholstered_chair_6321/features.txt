@@ -1,7 +1,1 @@
-Time to get active! crona up gets everyday work moving.
-
-- The perfect companion for the agile workplace
-- Maximum flexibility thanks to casters and height adjustment
-- With and without back-rest
-- Available as a high chair with circular foot rest or as a stoolwithout circular foot rest
-- Fits in with the crona collection perfectly
+<h3 class="h-h2 m-tabbed-content-item-content-w-media__headline" data-v-b955efd7="">Time to get active! crona up gets everyday work moving.</h3><div class="s-base m-tabbed-content-item-content-w-media__content" data-v-b955efd7=""><ul><li>The perfect companion for the agile workplace</li><li>Maximum flexibility thanks to casters and height adjustment</li><li>With and without back-rest</li><li>Available as a high chair with circular foot rest or as a stool<br>without circular foot rest</li><li>Fits in with the crona collection perfectly</li></ul></div>

@@ -1,9 +1,1 @@
-Concentration with ultimate comfort.
-
-- Lounge system for cosy seating and work environments
-- Premium soft moulded foam upholstery with a pocket spring core insert
-- Wide range of seating islands in linear and curved configurations
-- Available in two seat heights with low and high backs
-- Design flexibility thanks to the choice of colours for cushions, seats and back, with the option of elaborate joint stitching and different frame variations
-- Armchair, meeting pod and tables complete the range
-- Ideal for lounge and waiting areas, co-working spaces, libraries and many other public areas
+<h3 class="h-h2 m-tabbed-content-item-content-w-media__headline" data-v-b955efd7="">Concentration with ultimate comfort.</h3><div class="s-base m-tabbed-content-item-content-w-media__content" data-v-b955efd7=""><ul><li>Lounge system for cosy seating and work environments&nbsp;<br></li><li>Premium soft moulded foam upholstery with a pocket spring core insert</li><li>Wide range of seating islands in linear and curved configurations</li><li>Available in two seat heights with low and high backs</li><li>Design flexibility thanks to the choice of colours for cushions, seats and back, with the option of elaborate joint stitching and different frame variations</li><li>Armchair, meeting pod and tables complete the range</li><li>Ideal for lounge and waiting areas, co-working spaces, libraries and many other public areas</li></ul></div>

@@ -1,7 +1,1 @@
-The lightweight chair for large venues with the many variants.
-
-- Four-legged chair, wooden seat shell, with seat liner, seat and back liner, fully upholstered and with comfort upholstery
-- Seat shell also available with HPL coating or plastic seat shell
-- Armrests made of PUR or metal, upon request with wooden or soft-grip tube covers
-- Alternating row linking
-- Up to fifteen chairs vertically stackable
+<h3 class="h-h2 m-tabbed-content-item-content-w-media__headline" data-v-b955efd7="">The lightweight chair for large venues with the many variants.</h3><div class="s-base m-tabbed-content-item-content-w-media__content" data-v-b955efd7=""><ul><li>Four-legged chair, wooden seat shell, with seat liner, seat and back liner, fully upholstered and with comfort upholstery</li><li>Seat shell also available with HPL coating or plastic seat shell</li><li>Armrests made of PUR or metal, upon request with wooden or soft-grip tube covers</li><li>Alternating row linking</li><li>Up to fifteen chairs vertically stackable</li></ul></div>

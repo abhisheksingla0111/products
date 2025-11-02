@@ -1,9 +1,1 @@
-Nicer waiting.
-
-- Fresh, prestigious design
-- Modern series consisting of sofa and easy chair for exclusive waiting areas
-- Monochrome or bi-colour upholstery offer a multitude of colour variants
-- Allows more freedom for good interior design: These high backed armchairs and sofas are also ideally suited for use as room dividers
-- Particularly comfortable thanks to the wide lounge shell with its extra seating cushion
-- Equipped with either a slender wood frame, a delicate steel sled-base frame or a spider frame
-- Matching side tables complement the series
+<h3 class="h-h2 m-tabbed-content-item-content-w-media__headline" data-v-b955efd7="">Nicer waiting.</h3><div class="s-base m-tabbed-content-item-content-w-media__content" data-v-b955efd7=""><ul><li>Fresh, prestigious design</li><li>Modern series consisting of sofa and easy chair for exclusive waiting areas</li><li>Monochrome or bi-colour upholstery offer a multitude of colour variants</li><li>Allows more freedom for good interior design: These high backed armchairs and sofas are also ideally suited for use as room dividers</li><li>Particularly comfortable thanks to the wide lounge shell with its extra seating cushion</li><li>Equipped with either a slender wood frame, a delicate steel sled-base frame or a spider frame</li><li>Matching side tables complement the series</li></ul></div>

@@ -1,7 +1,1 @@
-Free sapce with edges and corners.
-
-- Work desks and seats, with or without panel, for furnishing workspaces and quiet areas in large halls and waiting rooms
-- Available with or without panel, these easy chair and sofa can be used in a myriad of ways
-- Sofas create an atmosphere of space in larger scale lounge environments
-- Freely positionable side tables are the ideal complement to the range
-- Available as single workplaces with optional media cables or power cables
+<h3 class="h-h2 m-tabbed-content-item-content-w-media__headline" data-v-b955efd7="">Free sapce with edges and corners.</h3><div class="s-base m-tabbed-content-item-content-w-media__content" data-v-b955efd7=""><ul><li>Work desks and seats, with or without panel, for furnishing workspaces and quiet areas in large halls and waiting rooms</li><li>Available with or without panel, these easy chair and sofa can be used in a myriad of ways</li><li>Sofas create an atmosphere of space in larger scale lounge environments</li><li>Freely positionable side tables are the ideal complement to the range</li><li>Available as single workplaces with optional media cables or power cables</li></ul></div>

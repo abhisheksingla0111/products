@@ -1,12 +1,1 @@
-Accessible comfort.
-
-- Feel-good Scandinavian design
-- Exceptional ergonomics and texture improve comfort when sitting
-- The back section shape embraces the user to provide extra comfort
-- Armrests with wide, flat surface and rounded underneath to inspire confidence and provide a standing aid
-- Consistent lines to highlight the natural wooden texture
-- Stackable medium and high-back chairs
-- Armchair with fixed or infinitely adjustable back section
-- Stacking chair in two back heights, each available with or without armrests
-- Additional options such as casters and push bars for easier handling
-- Coordinating feel tables, easychair and adjustable easychair with ottomans are available
+<h3 class="h-h2 m-tabbed-content-item-content-w-media__headline" data-v-b955efd7="">Accessible comfort.</h3><div class="s-base m-tabbed-content-item-content-w-media__content" data-v-b955efd7=""><ul><li>Feel-good Scandinavian design<br></li><li>Exceptional ergonomics and texture improve comfort when sitting</li><li>The back section shape embraces the user to provide extra comfort</li><li>Armrests with wide, flat surface and rounded underneath to inspire confidence and provide a standing aid</li><li>Consistent lines to highlight the natural wooden texture</li><li>Stackable medium and high-back chairs</li><li>Armchair with fixed or infinitely adjustable back section</li><li>Stacking chair in two back heights, each available with or without armrests</li><li>Additional options such as casters and push bars for easier handling</li><li>Coordinating feel tables, easychair and adjustable easychair with ottomans are available<br></li></ul></div>

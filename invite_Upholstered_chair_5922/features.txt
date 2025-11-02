@@ -1,8 +1,1 @@
-Elegance and comfort in a chair.
-
-- Cosy and timelessly elegant upholstered chair
-- Inviting, comfortable shell with integrated armrests and open back that adapts optimally to the body
-- Seat detachable without any tools allows a wide range of uses
-- Option of solid wood or steel frame
-- All materials used can be sorted by component type and recycled
-- All-rounder for cafeterias, restaurants, waiting areas and the care sector
+<h3 class="h-h2 m-tabbed-content-item-content-w-media__headline" data-v-b955efd7="">Elegance and comfort in a chair.</h3><div class="s-base m-tabbed-content-item-content-w-media__content" data-v-b955efd7=""><ul><li>Cosy and timelessly elegant upholstered chair</li><li>Inviting, comfortable shell with integrated armrests and open back that adapts optimally to the body</li><li>Seat detachable without any tools allows a wide range of uses</li><li>Option of solid wood or steel frame</li><li>All materials used can be sorted by component type and recycled</li><li>All-rounder for cafeterias, restaurants, waiting areas and the care sector</li></ul></div>

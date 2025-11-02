@@ -1,7 +1,7 @@
-For more peace and concentration.
-
-- Perfect retreat for more privacy
-- High seating comfort, even with intensive use, thanks to intelligent interior design
-- Lightweight base in extruded aluminium profile, powder-coated
-- Optionally with electrification or writing shelf
-- Add seating elements and tables
+<h3 class="h-h2 m-tabbed-content-item-content-w-media__headline" data-v-b955efd7="">For more peace and concentration.</h3><div class="s-base m-tabbed-content-item-content-w-media__content" data-v-b955efd7=""><ul>
+<li>Perfect retreat for more privacy</li>
+<li>High seating comfort, even with intensive use, thanks to intelligent interior design</li>
+<li>Lightweight base in extruded aluminium profile, powder-coated</li>
+<li>Optionally with electrification or writing shelf</li>
+<li>Add seating elements and tables</li>
+</ul></div>

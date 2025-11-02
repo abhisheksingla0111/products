@@ -1,6 +1,1 @@
-Two things in one
-
-- Design chair for the cafeteria, restaurant and the care sector
-- Has a clear form and design with a slinky silhouette supplemented by an exceptional material mix (plastic/solid wood)
-- Seat and back made of high-quality polypropylene, available in six trendy colours
-- Invisible square tube frame grants highest possible stability
+<h3 class="h-h2 m-tabbed-content-item-content-w-media__headline" data-v-b955efd7="">Two things in one</h3><div class="s-base m-tabbed-content-item-content-w-media__content" data-v-b955efd7=""><ul><li>Design chair for the cafeteria, restaurant and the care sector</li><li>Has a clear form and design with a slinky silhouette supplemented by an exceptional material mix (plastic/solid wood)</li><li>Seat and back made of high-quality polypropylene, available in six trendy colours</li><li> Invisible square tube frame grants highest possible stability</li></ul></div>

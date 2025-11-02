@@ -21,76 +21,84 @@ async def scrape_product(page, product):
 
     await log_message(f"Opening URL for product {folder_name}: {product['url']}")
     try:
-        await page.goto(product['url'], wait_until='load', timeout=60000)
-        # Wait for images to be attached
-        await page.wait_for_selector("div.o-media-gallery__grid picture source", state='attached', timeout=30000)
+        await page.goto(product['url'], wait_until='domcontentloaded', timeout=60000)
 
-        # Scroll down to trigger lazy loading of images
-        await page.evaluate("""
-            async () => {
-                await new Promise((resolve) => {
-                    let totalHeight = 0;
-                    const distance = 100;
-                    const timer = setInterval(() => {
-                        window.scrollBy(0, distance);
-                        totalHeight += distance;
-                        if (totalHeight >= document.body.scrollHeight) {
-                            clearInterval(timer);
-                            resolve();
-                        }
-                    }, 100);
-                });
-            }
-        """)
+        # Try to detect images, but don't fail if none found
+        try:
+            await page.wait_for_selector("div.o-media-gallery__grid picture source", state='attached', timeout=10000)
+            await log_message(f"Images detected on page for {folder_name}, scrolling to load them...")
+
+            # Scroll to trigger lazy loading of images
+            await page.evaluate("""
+                async () => {
+                    await new Promise((resolve) => {
+                        let totalHeight = 0;
+                        const distance = 200;
+                        const timer = setInterval(() => {
+                            window.scrollBy(0, distance);
+                            totalHeight += distance;
+                            if (totalHeight >= document.body.scrollHeight) {
+                                clearInterval(timer);
+                                resolve();
+                            }
+                        }, 100);
+                    });
+                }
+            """)
+        except Exception:
+            await log_message(f"[Info] No images detected for product {folder_name}, skipping image extraction step.")
 
         await log_message(f"Successfully opened URL for product {folder_name}")
     except Exception as e:
         await log_message(f"[Navigation] Failed to open URL {product['url']} for product {folder_name}: {e}")
         return
 
-    # Step 1: Download images via Playwright's page.request to avoid 403
+    # Step 1: Download images if available
     try:
         await log_message(f"Extracting images for product {folder_name}...")
         img_sources = await page.eval_on_selector_all(
             "div.o-media-gallery__grid picture source",
             "elements => elements.map(e => e.srcset ? e.srcset.split(',')[0].trim() : null).filter(src => src !== null)"
         )
-        await log_message(f"Found {len(img_sources)} images for product {folder_name}")
 
-        for i, img_url in enumerate(img_sources):
-            img_path = os.path.join(folder_name, f"image_{i + 1}.jpg")
-            try:
-                await log_message(f"Starting download with Playwright: {img_url}")
-                response = await page.request.get(img_url)
-                if response.ok:
-                    content = await response.body()
-                    with open(img_path, 'wb') as f:
-                        f.write(content)
-                    await log_message(f"Finished download: {img_url} -> {img_path}")
-                else:
-                    raise Exception(f"HTTP status {response.status}")
-            except Exception as e:
-                await log_message(f"[Image Download] Failed image {img_url} for product {folder_name}: {e}")
-        await log_message(f"Completed image downloads for product {folder_name}")
+        if not img_sources:
+            await log_message(f"[Info] No images found for product {folder_name}, skipping download step.")
+        else:
+            await log_message(f"Found {len(img_sources)} images for product {folder_name}")
+
+            for i, img_url in enumerate(img_sources):
+                img_path = os.path.join(folder_name, f"image_{i + 1}.jpg")
+                try:
+                    await log_message(f"Starting download with Playwright: {img_url}")
+                    response = await page.request.get(img_url)
+                    if response.ok:
+                        content = await response.body()
+                        with open(img_path, 'wb') as f:
+                            f.write(content)
+                        await log_message(f"Finished download: {img_url} -> {img_path}")
+                    else:
+                        raise Exception(f"HTTP status {response.status}")
+                except Exception as e:
+                    await log_message(f"[Image Download] Failed image {img_url} for product {folder_name}: {e}")
+            await log_message(f"Completed image downloads for product {folder_name}")
     except Exception as e:
         await log_message(f"[Images Extraction] Failed for product {folder_name}: {e}")
 
     # Step 2: Extract Features
     try:
+        await log_message(f"Extracting features for product {folder_name}...")
         features_html = await page.inner_html('#tab-0 > div > div > div:nth-child(1)')
         with open(os.path.join(folder_name, 'features.txt'), 'w', encoding='utf-8') as f:
             f.write(features_html)
+        await log_message(f"Features saved for product {folder_name}")
     except Exception as e:
-        await log_error(f"[Features Extraction] Failed for product {folder_name}: {e}")
+        await log_message(f"[Features Extraction] Failed for product {folder_name}: {e}")
 
     # Step 3: Download product sheet PDF
     try:
-        await log_message(f"Clicking Downloads tab for product {folder_name}...")
-        # Wait explicitly for the button to be visible
-        # downloads_button = page.locator("button.o-tabbed-content__item-trigger", has_text="Downloads")
-        # await downloads_button.click(force=True)
+        await log_message(f"Attempting to access Downloads tab for product {folder_name}...")
 
-        await log_message(f"Activating Downloads tab via script for product {folder_name}...")
+        # Click Downloads tab via script
         await page.evaluate("""
             () => {
                 const buttons = Array.from(document.querySelectorAll('button.o-tabbed-content__item-trigger'));
@@ -102,12 +110,10 @@ async def scrape_product(page, product):
                 }
             }
         """)
-        await page.wait_for_selector('#tab-3 > div > div > div:nth-child(1) ul li a span span span', state='visible', timeout=30000)
 
+        # Wait for potential PDF link
+        await page.wait_for_selector('#tab-3 > div > div > div:nth-child(1) ul li a span span span', state='visible', timeout=15000)
 
-
-        # await page.click("button.o-tabbed-content__item-trigger >> text=Downloads")
-        # await page.wait_for_selector('#tab-3 > div > div > div:nth-child(1) ul li a span span span', state='visible')
         pdf_url = await page.get_attribute('#tab-3 > div > div > div:nth-child(1) ul li a', 'href')
         if pdf_url:
             pdf_path = os.path.join(folder_name, 'product_sheet.pdf')
@@ -127,7 +133,6 @@ async def scrape_product(page, product):
             await log_message(f"[PDF Download] Product sheet link not found for product {folder_name}")
     except Exception as e:
         await log_message(f"[PDF Extraction] Failed for product {folder_name}: {e}")
-
 
 
 async def main():

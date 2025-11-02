@@ -1,7 +1,1 @@
-A chair that stays in line.
-
-- Ideally suited to use in large venues
-- Innovative MFE plus multifunctional element allowing for the linking of armrests and an optionally integrated panic-safe row linking device
-- Version with seat and back as separate elements
-- Vertical stacking
-- Optional row and seat numbering
+<h3 class="h-h2 m-tabbed-content-item-content-w-media__headline" data-v-b955efd7="">A chair that stays in line.</h3><div class="s-base m-tabbed-content-item-content-w-media__content" data-v-b955efd7=""><ul><li>Ideally suited to use in large venues</li><li>Innovative MFE plus multifunctional element allowing for the linking of armrests and an optionally integrated panic-safe row linking device</li><li>Version with seat and back as separate elements&nbsp;<br></li><li>Vertical stacking</li><li>Optional row and seat numbering</li></ul></div>

@@ -1,10 +1,1 @@
-Ultimate comfort.
-
-- Feel-good Scandinavian design
-- Exceptional ergonomics and texture improve comfort when sitting
-- The back section shape embraces the user to provide extra comfort
-- Armrests with wide, flat surface and rounded underneath to inspire confidence and provide a standing aid
-- Consistent lines to highlight the natural wooden texture
-- Armchair with fixed or infinitely adjustable back section and matching ottoman
-- With additional head support, also available in a version with a low back
-- Matching feel stacking chairs and tables are available
+<h3 class="h-h2 m-tabbed-content-item-content-w-media__headline" data-v-b955efd7="">Ultimate comfort.</h3><div class="s-base m-tabbed-content-item-content-w-media__content" data-v-b955efd7=""><ul><li>Feel-good Scandinavian design<br></li><li>Exceptional ergonomics and texture improve comfort when sitting</li><li>The back section shape embraces the user to provide extra comfort</li><li>Armrests with wide, flat surface and rounded underneath to inspire confidence and provide a standing aid</li><li>Consistent lines to highlight the natural wooden texture</li><li>Armchair with fixed or infinitely adjustable back section and matching ottoman</li><li>With additional head support, also available in a version with a low back<br></li><li>Matching feel stacking chairs and tables are available</li></ul></div>

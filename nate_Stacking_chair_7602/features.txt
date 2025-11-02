@@ -1,9 +1,1 @@
-High-tech craftsmanship meets sustainable resources.
-
-- Comprehensive range of furniture that combines high-tech craftsmanship with sustainable product design
-- Recycled plastic frame as the fundamental design element
-- Moulded beech or oak from national, sustainable PEFC-certified forestry
-- Slightly bevelled front seat edge for exceptional comfort
-- Well thought through to the end of the product’s life cycle: materials can be separated and sorted and are completely recyclable
-- Suitable for a variety of possible uses in offices and public spaces, e.g. cafeterias, restaurants and health care facilities
-- Matching tables, stools, bar stools and a bench complete the product range
+<h3 class="h-h2 m-tabbed-content-item-content-w-media__headline" data-v-b955efd7="">High-tech craftsmanship meets sustainable resources.</h3><div class="s-base m-tabbed-content-item-content-w-media__content" data-v-b955efd7=""><ul><li>Comprehensive range of furniture that combines high-tech craftsmanship with sustainable product design</li><li>Recycled plastic frame as the fundamental design element</li><li>Moulded beech or oak from national, sustainable PEFC-certified forestry</li><li>Slightly bevelled front seat edge for exceptional comfort</li><li>Well thought through to the end of the product’s life cycle: materials can be separated and sorted and are completely recyclable</li><li>Suitable for a variety of possible uses in offices and public spaces, e.g. cafeterias, restaurants and health care facilities</li><li>Matching tables, stools, bar stools and a bench complete the product range</li></ul></div>

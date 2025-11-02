@@ -1,8 +1,1 @@
-Works horizontally, vertically, everywhere.
-
-- Innovative addition to the chair range with interlocking frames
-- Versatile linking of chair and arm-chair now possible
-- Comfortable shell with ergonomic, three-dimensional shape
-- Various upholstery versions available
-- Perfect for use as seating in rooms with large capacities
-- Optionally available with new contactless numbering system numera evo
+<h3 class="h-h2 m-tabbed-content-item-content-w-media__headline" data-v-b955efd7="">Works horizontally, vertically, everywhere.</h3><div class="s-base m-tabbed-content-item-content-w-media__content" data-v-b955efd7=""><ul><li>Innovative addition to the chair range with interlocking frames</li><li>Versatile linking of chair and arm-chair now possible</li><li>Comfortable shell with ergonomic, three-dimensional shape</li><li>Various upholstery versions available</li><li>Perfect for use as seating in rooms with large capacities</li><li>Optionally available with new contactless numbering system numera evo</li></ul></div>

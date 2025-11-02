@@ -1,8 +1,8 @@
-So soft, so good!
-
-- Versatile range, modular design
-- Seat shells available in three different heights that can be combined with a sled-base or wooden frame
-- The modularity of the range means numerous possible applications, from conference room to restaurant, from elegant to homely
-- Streamlined, cushion-like fully upholstered shell with integrated armrest
-- High-quality appearance thanks to decorative stitching and all-round piping, optionally also available in a contrasting colour
-- Four-legged frame in solid oak wood, stained to match Brunner's standard range, sled-base frame chromed or coated in lava or white
+<h3 class="h-h2 m-tabbed-content-item-content-w-media__headline" data-v-b955efd7="">So soft, so good!</h3><div class="s-base m-tabbed-content-item-content-w-media__content" data-v-b955efd7=""><ul>
+<li>Versatile range, modular design</li>
+<li>Seat shells available in three different heights that can be combined with a sled-base or wooden frame</li>
+<li>The modularity of the range means numerous possible applications, from conference room to restaurant, from elegant to homely</li>
+<li>Streamlined, cushion-like fully upholstered shell with integrated armrest</li>
+<li>High-quality appearance thanks to decorative stitching and all-round piping, optionally also available in a contrasting colour</li>
+<li>Four-legged frame in solid oak wood, stained to match Brunner's standard range, sled-base frame chromed or coated in lava or white</li>
+</ul></div>

@@ -1,10 +1,8 @@
-Lightweight design, versatile use.
-
-- Smart design
-- Design versatility thanks to a range of options: different frame types with and without armrests and various upholstery options
-- Integration of the new Brunner colour range
-- Stackable depending on frame type
-- Easy-to-clean and disinfect plastic shell made of high-quality polypropylene with glass-fibre
-- Also available with a seat shell made from high-quality recycled plastic
-- Back with recess for easy handling and cleaning
-- Applications ranging from conferences to seminars, cafeterias to restaurants and even in the care sector
+<h3 class="h-h2 m-tabbed-content-item-content-w-media__headline" data-v-b955efd7="">Lightweight design, versatile use.</h3><div class="s-base m-tabbed-content-item-content-w-media__content" data-v-b955efd7=""><ul><li>Smart design </li><li>
+Design versatility thanks to a range of options: different frame types with and without armrests and various upholstery options
+</li><li>Integration of the new Brunner colour range </li><li>
+Stackable depending on frame type
+</li><li>Easy-to-clean and disinfect plastic shell made of high-quality polypropylene with glass-fibre
+</li><li>Also available with a seat shell made from high-quality recycled plastic
+</li><li>Back with recess for easy handling and cleaning </li><li>
+Applications ranging from conferences to seminars, cafeterias to restaurants and even in the care sector </li></ul></div>

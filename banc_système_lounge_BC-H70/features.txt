@@ -1,7 +1,7 @@
-Simply an inspiring system.
-
-- Lounge system featuring many combination options
-- The modular kit for architects
-- Lightweight, stable aluminium frame
-- Cushions and seat elements available in three different back heights
-- High degree of seating comfort, even during intensive usage, thanks to intelligent inner structure
+<h3 class="h-h2 m-tabbed-content-item-content-w-media__headline" data-v-b955efd7="">Simply an inspiring system.</h3><div class="s-base m-tabbed-content-item-content-w-media__content" data-v-b955efd7=""><ul>
+<li>Lounge system featuring many combination options</li>
+<li>The modular kit for architects</li>
+<li>Lightweight, stable aluminium frame</li>
+<li>Cushions and seat elements available in three different back heights</li>
+<li>High degree of seating comfort, even during intensive usage, thanks to intelligent inner structure</li>
+</ul></div>

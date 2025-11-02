@@ -1,7 +1,1 @@
-Sit your own way: modular contract furniture loungescape.
-
-- Inspiring and spatially structuring design
-- High-quality materials
-- Flexibly combinable elements with the same respective base area
-- Extendable by adding additional elements
-- Electrification via profile box possible
+<h3 class="h-h2 m-tabbed-content-item-content-w-media__headline" data-v-b955efd7="">Sit your own way: modular contract furniture loungescape.</h3><div class="s-base m-tabbed-content-item-content-w-media__content" data-v-b955efd7=""><ul><li>Inspiring and spatially structuring design</li><li>High-quality materials</li><li>Flexibly combinable elements with the same respective base area</li><li>Extendable by adding additional elements</li><li>Electrification via profile box possible<br></li></ul><p><br></p></div>

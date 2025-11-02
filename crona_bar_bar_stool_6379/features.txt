@@ -1,5 +1,1 @@
-Dynamic lines.
-
-- Matching bar stool for the crona series
-- Featuring a comfortable fully upholstered seat shell
-- Choice of robust, height-adjustable column or delicate sled-base frame
+<h3 class="h-h2 m-tabbed-content-item-content-w-media__headline" data-v-b955efd7="">Dynamic lines.</h3><div class="s-base m-tabbed-content-item-content-w-media__content" data-v-b955efd7=""><ul><li>Matching bar stool for the crona series</li><li>Featuring a comfortable fully upholstered seat shell</li><li>Choice of robust, height-adjustable column or delicate sled-base frame</li></ul></div>

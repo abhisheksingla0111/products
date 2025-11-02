@@ -1,6 +1,1 @@
-FUNCTIONAL, ERGONOMIC, COSY. CARE SERIES FOR DISCERNING NEEDS.
-
-- sound seating: in an upright position, and with good back support
-- outstanding upholstery for more comfort
-- Curved armrests provide a safe grip, thus facilitating standing up and sitting down.
-- Tables matching this series
+<h3 class="h-h2 m-tabbed-content-item-content-w-media__headline" data-v-b955efd7="">FUNCTIONAL, ERGONOMIC, COSY. CARE SERIES FOR DISCERNING NEEDS.</h3><div class="s-base m-tabbed-content-item-content-w-media__content" data-v-b955efd7=""><ul><li>sound seating: in an upright position, and with good back support</li><li>outstanding upholstery for more comfort</li><li>Curved armrests provide a safe grip, thus facilitating standing up and sitting down.</li><li>Tables matching this series</li></ul></div>

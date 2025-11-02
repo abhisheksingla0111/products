@@ -1,8 +1,1 @@
-THE CONTRACT FURNITURE READY PLASTIC CHAIR.
-
-- Monobloc plastic chair made of glass-fibre reinforced polypropylene
-- High-quality and weather resistant
-- Visual lightness thanks to delicate formal language
-- Lightweight, yet stable
-- Stackable
-- Optionally available with row linking and seat liner
+<h3 class="h-h2 m-tabbed-content-item-content-w-media__headline" data-v-b955efd7="">THE CONTRACT FURNITURE READY PLASTIC CHAIR.</h3><div class="s-base m-tabbed-content-item-content-w-media__content" data-v-b955efd7=""><ul><li>Monobloc plastic chair made of glass-fibre reinforced polypropylene</li><li>High-quality and weather resistant</li><li>Visual lightness thanks to delicate formal language</li><li>Lightweight, yet stable</li><li>Stackable</li><li>Optionally available with row linking and seat liner</li></ul></div>

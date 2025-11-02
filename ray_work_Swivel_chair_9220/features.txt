@@ -1,10 +1,1 @@
-Full flexibility every time.
-
-- Novel and exceptionally light office swivel chair in an elegant ergonomic design
-- A dynamic seating experience thanks to a clever combination of materials and a synchronous mechanism with automatic weight adjustment
-- Flexible plastic frame design that adapts to body movement
-- Premium mesh back with a cosy feel: breathable and flexible while retaining its shape
-- Wide range of colour and material combinations with mesh back as well as classic full upholstery
-- Optional with wave-shaped stitching on models 9223 and 9225
-- Frame made from recycled plastic when in color lava
-- For use in offices, conference settings or home offices, in an elegant and relaxed atmosphere
+<h3 class="h-h2 m-tabbed-content-item-content-w-media__headline" data-v-b955efd7="">Full flexibility every time.</h3><div class="s-base m-tabbed-content-item-content-w-media__content" data-v-b955efd7=""><ul><li>Novel and exceptionally light office swivel chair in an elegant ergonomic design</li><li>A dynamic seating experience thanks to a clever combination of materials and a synchronous mechanism with automatic weight adjustment</li><li>Flexible plastic frame design that adapts to body movement</li><li>Premium mesh back with a cosy feel: breathable and flexible while retaining its shape</li><li>Wide range of colour and material combinations with mesh back as well as classic full upholstery</li><li>Optional with wave-shaped stitching on models 9223 and 9225</li><li>Frame made from recycled plastic when in color lava</li><li>For use in offices, conference settings or home offices, in an elegant and relaxed atmosphere</li></ul></div>

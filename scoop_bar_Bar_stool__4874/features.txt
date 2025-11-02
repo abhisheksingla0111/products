@@ -1,8 +1,1 @@
-Comfy Bar Stool with a smart Design
-
-- Matching bar stools for the smart scoop series
-- Design versatility thanks to numerous variants: different frame types, optional upholstery variant and eight different colours from the new Brunner colour world
-- Ergonomic shell shape with recess in the back for easier gripping
-- Also available with a seat shell made from high-quality recycled plastic
-- Easy-care, simple to clean and disinfect
-- Versatile use in work areas, at the counter, in the cafeteria or in the restaurant
+<h3 class="h-h2 m-tabbed-content-item-content-w-media__headline" data-v-b955efd7="">Comfy Bar Stool with a smart Design </h3><div class="s-base m-tabbed-content-item-content-w-media__content" data-v-b955efd7=""><ul><li>Matching bar stools for the smart scoop series</li><li>Design versatility thanks to numerous variants: different frame types, optional upholstery variant and eight different colours from the new Brunner colour world</li><li>Ergonomic shell shape with recess in the back for easier gripping</li><li>Also available with a seat shell made from high-quality recycled plastic</li><li>Easy-care, simple to clean and disinfect</li><li>Versatile use in work areas, at the counter, in the cafeteria or in the restaurant</li></ul></div>

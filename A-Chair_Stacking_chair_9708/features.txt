@@ -1,10 +1,10 @@
-Variety by modularity - the new standard for different areas of deployment.
-
-- Unique design
-- Frames made of die-cast aluminium or plastic
-- Shells available in a choice of plastic or shaped wood
-- Free combination of shells and frames
-- Vertically stackable
-- Optional seat and row numbering
-- Modern writing tablet of same formal language available
-- Additional matching writing tablet, can be assembled and disassembled without tools
+<h3 class="h-h2 m-tabbed-content-item-content-w-media__headline" data-v-b955efd7="">Variety by modularity - the new standard for different areas of deployment.</h3><div class="s-base m-tabbed-content-item-content-w-media__content" data-v-b955efd7=""><ul>
+<li>Unique design</li>
+<li>Frames made of die-cast aluminium or plastic</li>
+<li>Shells available in a choice of plastic or shaped wood</li>
+<li>Free combination of shells and frames</li>
+<li>Vertically stackable</li>
+<li>Optional seat and row numbering</li>
+<li>Modern writing tablet of same formal language available</li>
+<li>Additional matching writing tablet, can be assembled and disassembled without tools</li>
+</ul></div>

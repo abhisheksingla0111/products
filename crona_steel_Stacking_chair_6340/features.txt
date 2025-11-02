@@ -1,8 +1,1 @@
-Defy the weather reports.
-
-- The perfect addition to the crona collection
-- Complete with special coating for outdoor use, giving restaurants and cafeterias a consistent design both inside and out
-- Powder-coated components available in seven crona light colours
-- Ergonomic flat steel struts make the seats surprisingly comfortable, with a design to match the sculpted crona light look
-- Available with outdoor seat cushions as an optional extra
-- Matching bistro, folding, lounge and bar tables are available
+<h3 class="h-h2 m-tabbed-content-item-content-w-media__headline" data-v-b955efd7="">Defy the weather reports.</h3><div class="s-base m-tabbed-content-item-content-w-media__content" data-v-b955efd7=""><ul><li>The perfect addition to the crona collection</li><li>Complete with special coating for outdoor use, giving restaurants and cafeterias a consistent design both inside and out<br></li><li>Powder-coated components available in seven crona light colours</li><li>Ergonomic flat steel struts make the seats surprisingly comfortable, with a design to match the sculpted crona light look</li><li>Available with outdoor seat cushions as an optional extra</li><li>Matching bistro, folding, lounge and bar tables are available<br></li></ul></div>

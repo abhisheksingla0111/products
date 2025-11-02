@@ -1,7 +1,7 @@
-Modular seating landscape for customised, effortless interior design.
-
-- Modern upholstery elements in various shapes, colours and fabrics
-- Characteristic zigzag seam in eight colours as the key design element
-- Numerous combination possibilities together with matching cushions, panels and a side table with intelligent electrification
-- For maximum flexibility when working and communicating
-- Ideal for lounge and waiting areas, co-working spaces, libraries and many other public areas
+<h3 class="h-h2 m-tabbed-content-item-content-w-media__headline" data-v-b955efd7="">Modular seating landscape for customised, effortless interior design.</h3><div class="s-base m-tabbed-content-item-content-w-media__content" data-v-b955efd7=""><ul>
+<li>Modern upholstery elements in various shapes, colours and fabrics</li>
+<li>Characteristic zigzag seam in eight colours as the key design element</li>
+<li>Numerous combination possibilities together with matching cushions, panels and a side table with intelligent electrification</li>
+<li>For maximum flexibility when working and communicating</li>
+<li>Ideal for lounge and waiting areas, co-working spaces, libraries and many other public areas</li>
+</ul></div>

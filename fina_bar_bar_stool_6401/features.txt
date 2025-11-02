@@ -1,8 +1,1 @@
-Helping you reach great heights.
-
-- Bar stools matching the fina family
-- Shaped wood seat shell, plastic or upholstered
-- Sled-base frame made of chromed metal with puristic design
-- Chromed star-shaped base with circumferential foot rest
-- Variant with star-shaped base featuring a high shell for even higher seating comfort
-- Also available with oak wood frame
+<h3 class="h-h2 m-tabbed-content-item-content-w-media__headline" data-v-b955efd7="">Helping you reach great heights.</h3><div class="s-base m-tabbed-content-item-content-w-media__content" data-v-b955efd7=""><ul><li>Bar stools matching the fina family</li><li>Shaped wood seat shell, plastic or upholstered</li><li>Sled-base frame made of chromed metal with puristic design</li><li>Chromed star-shaped base with circumferential foot rest</li><li>Variant with star-shaped base featuring a high shell for even higher seating comfort</li><li>Also available with oak wood frame</li></ul></div>
