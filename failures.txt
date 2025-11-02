@@ -1,0 +1,67 @@
+Based on the execution log you provided, your automation script did not run as expected for **30 different products**. These failures fall primarily into two categories: navigation/timeout errors (where the script couldn't load the product page) and download errors (where specific images or the product PDF failed to download).
+
+Here is the list of products that encountered failures, categorized by the type of error reported in the logs:
+
+---
+
+### I. Navigation Failures (Timeout Exceeded)
+
+For these products, the script failed to successfully open the URL because a required element (specifically identified in the log as `div.o-media-gallery__grid picture source`) timed out after 30000ms.
+
+| Product Name | Log Details |
+| :--- | :--- |
+| **buena_nova_high-back_chair_340** | Failed to open URL due to timeout. |
+| **buena_nova_reclining_chair__356** | Failed to open URL due to timeout. |
+| **dress_Standing_aid__7001** | Failed to open URL due to timeout. |
+| **due_bar_stool__3801** | Failed to open URL due to timeout. |
+| **fina_wood_chair_with_medium_height_back_6822** | Failed to open URL due to timeout. |
+| **milanolight_comfort_Upholstered_chair_5228** | Failed to open URL due to timeout. |
+| **plot_Stool_PL060** | Failed to open URL due to timeout. |
+| **sonato_stacking_chair_8524** | Failed to open URL due to timeout. |
+| **sonato_high-back_chair_8534** | Failed to open URL due to timeout. |
+| **sonato_seating_8541** | Failed to open URL due to timeout. |
+| **taceo_seating_8331** | Failed to open URL due to timeout. |
+| **too_2.0_swivel_chair_with_mesh_back_154** | Failed to open URL due to timeout. |
+| **too_2.0_visitor_chair_with_mesh_back__258** | Failed to open URL due to timeout. |
+| **torras_reclining_chair_8000** | Failed to open URL due to timeout. |
+| **verona_bench_5304** | Failed to open URL due to timeout. |
+| **wellano_seating_9955** | Failed to open URL due to timeout. |
+| **window_seating_3441** | Failed to open URL due to timeout. |
+
+---
+
+### II. Download Failures (HTTP 404/Invalid URL)
+
+These products generally opened successfully, but encountered errors when trying to download specific files (images or PDFs).
+
+#### A. Products with PDF Download Failures (HTTP 404)
+
+The script successfully completed the image extraction/download phase, but failed to retrieve the main product data sheet PDF (HTTP Status 404) for these five products:
+
+| Product Name | Log Details |
+| :--- | :--- |
+| **hoc_Bar_stool_9101** | PDF download failed with HTTP status 404. |
+| **hoc_Lounge_furniture_9146** | PDF download failed with HTTP status 404. |
+| **hoc_Seating_9149** | PDF download failed with HTTP status 404. |
+| **hoc_seating_9142** | PDF download failed with HTTP status 404. |
+| **linos_Stacking_chair_plastic_1206** | PDF download failed with HTTP status 404. |
+| **linos_stacking_chair_wood_1224** | PDF download failed with HTTP status 404. |
+| **mudra_Stacking_chair_8804** | PDF download failed with HTTP status 404. |
+| **timber_Bench_TI400** | PDF download failed with HTTP status 404. |
+
+*Note: The PDF download path for the `hoc` products appears malformed in the log, possibly referencing an unexpected internal string (`https%3A//www.brunner-group.com`) resulting in the 404 error.*
+
+#### B. Products with Image Download Failures (HTTP 404/Invalid URL)
+
+For these products, the main product page loaded, and the PDF often downloaded successfully, but the script failed to retrieve specific image assets (marked by `[Image Download] Failed image`).
+
+| Product Name | Failure Details | Log References |
+| :--- | :--- | :--- |
+| **A-Chair_Stacking_chair_9708** | Multiple images failed to download, resulting in HTTP status 404 errors. |
+| **A-Lounge_Chair_9743** | Multiple images failed to download, resulting in persistent HTTP status 404 errors. |
+| **crona_Chair_6375** | Three different images failed to download, returning HTTP status 404. |
+| **crona_steel_Bar_tool_6341** | Several images (at least 9 unique attempts across different sizes/styles) failed with HTTP status 404 errors. |
+| **crona_up_Upholstered_chair_6321** | Three images associated with `116433` failed to download, returning HTTP status 404 errors. |
+| **fina_lounge_Armchair_6742** | Multiple image downloads failed, consistently returning HTTP status 404 errors across different image IDs and sizes. |
+| **ray_soft_Bar_stool_9643** | One image download failed due to an **Invalid URL** (`#undefined`). |
+| **ray_soft_upholstered_chair_9624** | Multiple images failed to download, consistently returning HTTP status 404 errors. |
